@@ -1,0 +1,9 @@
+{
+    "name": "Report Form",
+    "namespace": "Botble\\Report\\",
+    "provider": "Botble\\Report\\Providers\\ReportServiceProvider",
+    "author": "Botble Technologies",
+    "url": "https://botble.com",
+    "version": "5.8",
+    "description": "Report Form"
+}

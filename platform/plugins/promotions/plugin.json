@@ -1,0 +1,9 @@
+{
+  "name": "Promotions",
+  "namespace": "Botble\\Promotions\\",
+  "provider": "Botble\\Promotions\\Providers\\PromotionServiceProvider",
+  "author": "Layorz Technologies",
+  "url": "https://layorz.com",
+  "version": "5.8",
+  "description": "A plugin to create promotions"
+}

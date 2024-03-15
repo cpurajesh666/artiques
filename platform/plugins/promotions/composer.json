@@ -1,0 +1,8 @@
+{
+    "name": "botble/promotions",
+    "description": "Promotion Plugin",
+    "type": "package",
+    "require": {
+        "doctrine/dbal": "^3.0"
+    }
+}
